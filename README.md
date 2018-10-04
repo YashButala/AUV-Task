@@ -2,6 +2,7 @@
 For Task1
 dice.cpp is opencv code for counting pips.the bouding rectangle vertices and number of dots in each die isstored in an array.
 beginner package :
+  install ros kinetic
   roscore
   source and catkin two terminals
   run catkin_make in one console
